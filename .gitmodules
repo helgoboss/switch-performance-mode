@@ -1,0 +1,3 @@
+[submodule "lib/BlackViperScript"]
+	path = lib/BlackViperScript
+	url = https://github.com/madbomb122/BlackViperScript.git
