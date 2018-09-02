@@ -24,4 +24,4 @@ Here's the list of modes:
 
 ## Usage
 
-    node switch-performance-mode [normal|studio|live]
+    switch-performance-mode [normal|studio|live]
